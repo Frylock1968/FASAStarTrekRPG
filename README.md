@@ -1,4 +1,4 @@
-# FASAStarTrekRPG (Current Version: 1.2)
+# FASAStarTrekRPG (Current Version: 1.3, 7/20/2025)
 This contains my character builder for the FASA Star Trek RPG of the 1980s.
 
 This application is in beta, so bugs and feature requests should be directed to me through my blog at https://gsllcblog.com/contact-me/. You can see all my prior work on my FASA Star Trek RPG Resources page at https://gsllcblog.com/fasa-star-trek-rpg-resources/. This includes an application from 2012 that does everything *except* player character generation. It provides quick creation of solar systems, NPCs across all races and roles (sentient and not), MCPs for starships, and balanced starship battlegroups. The idea of this application is to allow you to create a legal player character quickly and easily, which means that it hinders you from making mistakes during that complicated process.
